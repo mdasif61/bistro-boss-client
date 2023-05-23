@@ -1,0 +1,6 @@
+.featured-bg{
+    background-image: url('../../../../assets/home/featured.jpg');
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
